@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lovable.dev	TRUE	/	FALSE	1999999999	NEXT_LOCALE	en
+lovable.dev	TRUE	/	FALSE	1999999999	USER_COUNTRY	US
+lovable.dev	TRUE	/	FALSE	1999999999	USER_CURRENCY	USD
+lovable.dev	TRUE	/	FALSE	1999999999	SameSite	lax
+
